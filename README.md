@@ -1,5 +1,6 @@
 # Ufuk'un Kişisel Blogu
 
-[Python'da Koşul Akışı: if, else, ve elif Yapılarını Anlama](https://github.com/ufuayk/Blog/blob/main/content/python-kosul-akisi.md)
-
-[Temel Linux Komutları: Başlangıç Rehberi](https://github.com/ufuayk/Blog/blob/main/content/temel-linux-komutlari.md)
+| **Konu**                                                              | **Açıklama**                                                                                         | **Yazılma Tarihi** | **Link**                                                                                                                               |
+|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------|
+| **Python'da Koşul Akışı: if, else, ve elif Yapılarını Anlama** | Python'da koşul akışını anlamanızı sağlayacak bu yazıda, if, else ve elif yapılarını öğrenin.          | 24 Ağustos 2024    | [Tıkla](https://github.com/ufuayk/Blog/blob/main/content/python-kosul-akisi.md) |
+| **Temel Linux Komutları: Başlangıç Rehberi**            | Linux'a yeni başlayanlar için temel komutların yer aldığı bu rehber ile sistemde nasıl dolaşılacağını öğrenin. | 25 Ağustos 2024    | [Tıkla](https://github.com/ufuayk/Blog/blob/main/content/temel-linux-komutlari.md) |
